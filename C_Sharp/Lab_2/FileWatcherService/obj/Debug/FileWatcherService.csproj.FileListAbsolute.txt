@@ -1,0 +1,7 @@
+D:\3_Sem\sharpP\FileWatcherService\bin\Debug\FileWatcherService.exe.config
+D:\3_Sem\sharpP\FileWatcherService\bin\Debug\FileWatcherService.exe
+D:\3_Sem\sharpP\FileWatcherService\bin\Debug\FileWatcherService.pdb
+D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.csprojAssemblyReference.cache
+D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.csproj.CoreCompileInputs.cache
+D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.pdb

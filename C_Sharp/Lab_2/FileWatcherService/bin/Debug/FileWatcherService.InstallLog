@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\3_Sem\sharpP\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\bin\Debug\FileWatcherService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\3_Sem\sharpP\FileWatcherService\bin\Debug\FileWatcherService.exe assembly.
+Committing assembly 'D:\3_Sem\sharpP\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\bin\Debug\FileWatcherService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\3_Sem\sharpP\FileWatcherService\bin\Debug\FileWatcherService.exe assembly.
+Remove InstallState file because there are no installers.

@@ -1,0 +1,239 @@
+﻿Installing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe assembly.
+Committing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe assembly.
+Committing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe assembly.
+Committing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Installing service FileWatcherService...
+Service FileWatcherService has been successfully installed.
+Creating EventLog source FileWatcherService in log Application...
+Committing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Installing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Installing service FileWatcherService...
+Creating EventLog source FileWatcherService in log Application...
+Rolling back assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Restoring event log to previous state for source FileWatcherService.
+Uninstalling assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Removing EventLog source FileWatcherService.
+Service FileWatcherService is being removed from the system...
+Service FileWatcherService was successfully removed from the system.
+Installing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Installing service FileWatcherService...
+Service FileWatcherService has been successfully installed.
+Creating EventLog source FileWatcherService in log Application...
+Committing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Uninstalling assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Removing EventLog source FileWatcherService.
+Service FileWatcherService is being removed from the system...
+Service FileWatcherService was successfully removed from the system.
+Installing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Installing service FileWatcherService...
+Service FileWatcherService has been successfully installed.
+Creating EventLog source FileWatcherService in log Application...
+Committing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Uninstalling assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Removing EventLog source FileWatcherService.
+Service FileWatcherService is being removed from the system...
+Service FileWatcherService was successfully removed from the system.
+Installing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Installing service FileWatcherService...
+Service FileWatcherService has been successfully installed.
+Creating EventLog source FileWatcherService in log Application...
+Committing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Uninstalling assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Removing EventLog source FileWatcherService.
+Service FileWatcherService is being removed from the system...
+Service FileWatcherService was successfully removed from the system.
+Installing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Installing service FileWatcherService...
+Service FileWatcherService has been successfully installed.
+Creating EventLog source FileWatcherService in log Application...
+Committing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Uninstalling assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Removing EventLog source FileWatcherService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Removing EventLog source FileWatcherService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Removing EventLog source FileWatcherService.
+Service FileWatcherService is being removed from the system...
+Service FileWatcherService was successfully removed from the system.
+Installing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Installing service FileWatcherService...
+Service FileWatcherService has been successfully installed.
+Creating EventLog source FileWatcherService in log Application...
+Committing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Uninstalling assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Removing EventLog source FileWatcherService.
+Service FileWatcherService is being removed from the system...
+Service FileWatcherService was successfully removed from the system.
+Installing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Installing service FileWatcherService...
+Service FileWatcherService has been successfully installed.
+Creating EventLog source FileWatcherService in log Application...
+Committing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Uninstalling assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Removing EventLog source FileWatcherService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Removing EventLog source FileWatcherService.
+Service FileWatcherService is being removed from the system...
+Service FileWatcherService was successfully removed from the system.
+Installing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+Installing service FileWatcherService...
+Service FileWatcherService has been successfully installed.
+Creating EventLog source FileWatcherService in log Application...
+Committing assembly 'D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.InstallLog
+   assemblypath = D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
