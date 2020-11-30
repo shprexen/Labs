@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  
+  <SourcePath>D:\3_Sem\sharpP\Source</SourcePath>
+
+  <TargetPath>D:\3_Sem\sharpP\Archive</TargetPath>
+
+  <Archive>true</Archive>
+
+  <Encrypt>true</Encrypt>
+  
+</Options>

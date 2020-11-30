@@ -1,0 +1,16 @@
+D:\3_Sem\sharpP\FileWatcherService\bin\Debug\FileWatcherService.exe.config
+D:\3_Sem\sharpP\FileWatcherService\bin\Debug\FileWatcherService.exe
+D:\3_Sem\sharpP\FileWatcherService\bin\Debug\FileWatcherService.pdb
+D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.csprojAssemblyReference.cache
+D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.csproj.CoreCompileInputs.cache
+D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe
+D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.pdb
+D:\3_Sem\sharpP\FileWatcherService\bin\Debug\System.Memory.dll
+D:\3_Sem\sharpP\FileWatcherService\bin\Debug\System.Text.Json.dll
+D:\3_Sem\sharpP\FileWatcherService\bin\Debug\System.Numerics.Vectors.dll
+D:\3_Sem\sharpP\FileWatcherService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3_Sem\sharpP\FileWatcherService\bin\Debug\System.Text.Encodings.Web.dll
+D:\3_Sem\sharpP\FileWatcherService\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3_Sem\sharpP\FileWatcherService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.exe.config
+D:\3_Sem\sharpP\FileWatcherService\obj\Debug\FileWatcherService.csproj.CopyComplete
