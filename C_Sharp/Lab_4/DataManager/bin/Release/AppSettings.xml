@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<DataManagerOptions>
+    <ConnectionString>Data Source=DESKTOP-I9N5CAG\SQLEXPRESS;Initial Catalog=AdventureWorks2019;Integrated Security=True</ConnectionString>
+    <ErrorConnectionString>Data Source=DESKTOP-I9N5CAG\SQLEXPRESS;Initial Catalog=ErrorLogs;Integrated Security=True</ErrorConnectionString>
+    <SearchCriteria>
+        <Amount>9</Amount>
+    </SearchCriteria>
+    <FtpSourceFolder>D:\FTP\Source</FtpSourceFolder>
+</DataManagerOptions>
